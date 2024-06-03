@@ -23,6 +23,7 @@ Started by creating the initial path with coordinates (0, 200).
 Defined the path bin size as 1 to ensure precise segmentation of the data points.
 
 **Key Calculations**
+
 **Unaffordability Metric:** The metric "Percent of the population who cannot afford a healthy diet (CoHD headcount)/100" is used to indicate the proportion of individuals in a population who cannot afford a healthy diet.
 
 **Window Sum Calculation**: The formula "WINDOW_SUM(sum([Percent of the population who cannot afford a healthy diet (CoHD headcount)]))/2" calculates the cumulative sum of the unaffordability percentage, averaged over a specified window. This helps analyze trends and patterns in food affordability across different time periods or regions.
