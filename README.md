@@ -24,7 +24,9 @@ Defined the path bin size as 1 to ensure precise segmentation of the data points
 
 **Key Calculations**
 **Unaffordability Metric:** The metric "Percent of the population who cannot afford a healthy diet (CoHD headcount)/100" is used to indicate the proportion of individuals in a population who cannot afford a healthy diet.
+
 **Window Sum Calculation**: The formula "WINDOW_SUM(sum([Percent of the population who cannot afford a healthy diet (CoHD headcount)]))/2" calculates the cumulative sum of the unaffordability percentage, averaged over a specified window. This helps analyze trends and patterns in food affordability across different time periods or regions.
+
 **Ranking Calculation:** The formula "RANK_UNIQUE([Total Perc],'asc')" assigns a unique rank to each country based on the total percentage of the population who cannot afford a healthy diet, in ascending order. This ensures no two countries share the same rank, even if their unaffordability percentages are identical.
 
 **Calculated X and Y Coordinates:**
