@@ -47,4 +47,30 @@ Adjusted aesthetics such as color gradients, ensuring a transition from red (hig
 **Interactivity Implementation:**
 Set up filters allowing users to select different continents, dynamically updating the dendrogram chart based on the selected data.
 
+**Chart 3: Comparison of Healthy Diet Affordability by Country Relative to World Average**
 
+This dashboard provides a comparative analysis of healthy diet affordability across countries in different continents, relative to the world average. The bar charts are organized by continent, allowing for a quick comparison within and across regions.
+
+**Asia:** Countries like Japan and Bhutan have a higher cost of a healthy diet, with values reaching up to 5.529 units and 4.383 units, respectively, while countries like Israel and Azerbaijan have lower costs, around 2.436 units and 2.348 units, respectively.
+
+**Europe:** A similar variation is observed, with countries like Bosnia and Herzegovina and Albania showing higher costs (3.847 and 3.952 units), compared to Austria and Belgium, which have relatively lower costs.
+
+**North America:** Jamaica stands out with the highest cost at 5.975 units, while Belize and Canada have significantly lower costs at around 2.476 and 2.853 units, respectively.
+
+**South America:** The cost varies, with Guyana and Suriname showing higher costs (4.629 and 4.969 units), compared to Brazil and Ecuador, where the costs are relatively lower.
+
+This dashboard enables users to compare the affordability of a healthy diet by country and continent, providing insights into regional dietary costs relative to the global average.
+
+**Chart 4: Cost Share of Fruits in a Least Cost Healthy Diet -- Pyramid Chart**
+
+This dashboard highlights the cost share of fruits as a percentage of the least expensive healthy diet across various countries, organized by continent. The charts provide a detailed look at how much of the diet cost is attributed to fruits.
+
+The dashboard includes a pyramid chart that visually compares the cost share of fruits across the three continents—Asia, Africa, and Europe. The pyramid chart provides a clear hierarchical view, highlighting the countries with the highest and lowest fruit cost shares.
+
+**Asia:** Malaysia and Pakistan have the highest cost share for fruits, with values reaching 28.80% and 27.10%, respectively, while Tajikistan and Saudi Arabia have the lowest, around 20.70% and 21.50%, respectively.
+
+**Africa:** Tunisia stands out with the highest cost share of fruits at 32.40%, followed by countries like Namibia and Ethiopia, with shares ranging from 24.50% to 25.00%.
+
+**Europe:** The cost share of fruits in a healthy diet is also significant in countries like Luxembourg (30.60%) and Spain (29.50%), while countries like Austria and Ireland have slightly lower shares, around 29.30% and 25.90%, respectively.
+
+This dashboard allows users to explore the proportion of diet costs dedicated to fruits in different countries, offering valuable insights into the economic importance of fruits in a balanced diet.
